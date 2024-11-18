@@ -31,4 +31,4 @@ Medium Article: https://medium.com/@ruchithareddy_koluguri/teaching-ai-to-think-
 
 PPT Link: https://docs.google.com/presentation/d/1X-zCw9Qa3RCN-T3lTUb1zF1zOJxMaZe5u2_NiI1kPds/edit?usp=sharing
 
-Video Presentation Link: https://drive.google.com/drive/u/0/folders/1D1BlenTgT5mmXCkdpUUsfaXxRXTyu7u_
+Video Presentation Link: [https://drive.google.com/drive/u/0/folders/1D1BlenTgT5mmXCkdpUUsfaXxRXTyu7u_](https://drive.google.com/file/d/1w-oRpnj7r8iiGu_T6miK1uz5NXqZA6XT/view?usp=drive_link)
